@@ -1,0 +1,2 @@
+#feedback_inline_pfbid02QhZckmENPg6UDdxGnKVeurUXp5yZwpp3i3nG84SMPADRgZcn4LGUwz4j2A9i76ZMl > div._52jh._7om2._15kk._15ks._15km._4b47._4b46 > div:nth-child(2) > a
+#feedback_inline_pfbid02QfNufUVmz9JuaErCZguKGJJ2vBPRJSXm9zTgZAzxXP8pSHc8shhvCctEQttDSsfzl > div._52jh._7om2._15kk._15ks._15km._4b47._4b46 > div:nth-child(2) > a
